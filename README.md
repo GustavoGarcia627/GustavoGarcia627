@@ -1,16 +1,13 @@
-## Hi there 👋
+# ¡Hola! Soy Gustavo 👋
 
-<!--
-**GustavoGarcia627/GustavoGarcia627** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me apasiona la tecnología y el desarrollo de software. Me destaco por mi capacidad para analizar problemas y encontrar soluciones eficientes a través del código.
 
-Here are some ideas to get you started:
+### 🛠️ Tecnologías y Herramientas
+- **Lenguajes:** Python, HTML5, CSS3
+- **Herramientas:** Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 En lo que estoy trabajando / Aprendiendo
+- Profundizando en Python y desarrollo Backend.
+- Mejorando mis habilidades en lógica de programación y algoritmos.
+
+📫 Cómo contactarme: [www.linkedin.com/in/fernando-garcía-b874742b7] | [garciafernandogustavo@gmail.com]
